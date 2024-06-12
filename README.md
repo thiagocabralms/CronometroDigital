@@ -1,8 +1,9 @@
-Este projeto é um cronômetro digital implementado em JavaScript, com funcionalidades para iniciar, pausar, retomar e resetar o tempo. A interface é composta por elementos HTML para exibir minutos, segundos e milissegundos, além de botões para controlar o cronômetro.
 
+💛Este projeto é um cronômetro digital implementado em JavaScript, com funcionalidades para iniciar, pausar, retomar e resetar o tempo. A interface é composta por elementos HTML para exibir minutos, segundos e milissegundos, além de botões para controlar o cronômetro.
+✅Acesse o Projeto: https://thiagocabralms.github.io/CronometroDigital/  ✅
 Este cronômetro digital permite que você controle e acompanhe o tempo de maneira fácil e eficiente. A seguir, as instruções para utilizar todas as funcionalidades do cronômetro:
 
-Passo a Passo para Utilização
+💛Passo a Passo para Utilização
 Inicialização do Cronômetro
 
 Localize o botão "Start" na interface do cronômetro.
